@@ -1,14 +1,16 @@
-🍺 Beer Stock API
+🍺 **Beer Stock API**
 
 Estudos em Testes Automatizados — Breezelab
 
-Este projeto faz parte dos meus estudos no **bootcamp da DIO** e nasceu como um exercício prático para entender melhor **como funcionam os testes automatizados** em uma API REST com **Spring Boot**.
+Este projeto faz parte dos meus estudos no **Bootcamp da DIO + Bradesco** e nasceu como um exercício prático para entender melhor **como funcionam os testes automatizados** em uma API REST com **Spring Boot**.
 
 A ideia aqui não é mostrar algo complexo, e sim **registrar o processo de aprendizado**: organizar o código, entender o fluxo da aplicação e validar se tudo está se comportando como esperado.
 
 Dentro do contexto do **Breezelab**, este repositório representa essa camada mais técnica e silenciosa do trabalho — aquela que garante que as coisas façam sentido antes de seguir adiante.
 
-🌬️ Sobre o projeto
+---
+
+🌬️ **Sobre o projeto**
 
 A API de gerenciamento de estoque de cervejas foi escolhida justamente por ser simples.
 Isso permite focar no que realmente importa nesse estudo:
@@ -20,9 +22,9 @@ Isso permite focar no que realmente importa nesse estudo:
 
 É o tipo de exercício que ajuda a criar repertório e reflete situações do dia a dia, principalmente do ponto de vista de **QA e qualidade de software**.
 
+---
 
-
-🧪 Como os testes foram pensados
+🧪 **Como os testes foram pensados**
 
 Testes unitários:
 
@@ -38,8 +40,9 @@ Testes de integração:
 
 A ideia foi entender cada parte separadamente e depois observar tudo funcionando junto — algo que conversa bastante com a forma como o Breezelab encara processos: testar, ajustar e evoluir.
 
+---
 
-🧩 O que a API faz
+🧩 **O que a API faz**
 
 * Lista cervejas
 * Busca por ID
@@ -47,7 +50,7 @@ A ideia foi entender cada parte separadamente e depois observar tudo funcionando
 * Atualiza o estoque
 * Remove registros
 
-🛠️ Tecnologias usadas
+🛠️ **Tecnologias usadas**
 
 * Java 17
 * Spring Boot
@@ -58,7 +61,9 @@ A ideia foi entender cada parte separadamente e depois observar tudo funcionando
 * Mockito
 * MockMvc
 
-▶️ Como rodar
+---
+
+▶️ **Como rodar**
 
 Subir a aplicação:
 
@@ -76,7 +81,7 @@ Tudo roda em memória, sem necessidade de configuração externa.
 
 ---
 
-🌀 Um pouco do contexto Breezelab
+🌀 **Um pouco do contexto Breezelab**
 
 O **Breezelab** é um espaço onde tecnologia, design e comunicação se encontram.
 Este projeto entra como um estudo técnico dentro desse ecossistema, reforçando a importância de **entender bem os fluxos**, validar comportamentos e cuidar da base antes de pensar em algo maior.
