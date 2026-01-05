@@ -27,13 +27,13 @@ Isso permite focar no que realmente importa nesse estudo:
 
 ### 🧪 **Como os testes foram pensados**
 
-Testes unitários:
+**Testes unitários:**
 
 * Foco na camada de serviço
 * Uso de **Mockito** para simular o repositório
 * Testes diretos, olhando para a regra de negócio
 
-Testes de integração:
+**Testes de integração:**
 
 * Foco na camada de controller
 * Uso de **MockMvc**
@@ -66,19 +66,19 @@ A ideia foi entender cada parte separadamente e depois observar tudo funcionando
 
 ### ▶️ **Como rodar**
 
-Subir a aplicação:
+**Subir a aplicação:**
 
 ```bash
 mvn spring-boot:run
 ```
 
-Rodar os testes:
+**Rodar os testes:**
 
 ```bash
 mvn test
 ```
 
-Tudo roda em memória, sem necessidade de configuração externa.
+Tudo roda em memória, **sem necessidade de configuração externa.**
 
 ---
 
