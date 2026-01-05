@@ -1,4 +1,4 @@
-#🍺 Beer Stock API
+# 🍺 Beer Stock API
 
 Estudos em Testes Automatizados — Breezelab
 
