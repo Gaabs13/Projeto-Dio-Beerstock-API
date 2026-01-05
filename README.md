@@ -1,6 +1,6 @@
 # 🍺 Beer Stock API
 
-** Estudos em Testes Automatizados **
+**Estudos em Testes Automatizados**
 
 Este projeto faz parte dos meus estudos no **Bootcamp da DIO + Bradesco** e nasceu como um exercício prático para entender melhor **como funcionam os testes automatizados** em uma API REST com **Spring Boot**.
 
