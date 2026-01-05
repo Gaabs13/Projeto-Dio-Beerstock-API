@@ -1,6 +1,6 @@
 # 🍺 Beer Stock API
 
-Estudos em Testes Automatizados — Breezelab
+Estudos em Testes Automatizados
 
 Este projeto faz parte dos meus estudos no **Bootcamp da DIO + Bradesco** e nasceu como um exercício prático para entender melhor **como funcionam os testes automatizados** em uma API REST com **Spring Boot**.
 
@@ -10,7 +10,8 @@ Dentro do contexto do **Breezelab**, este repositório representa essa camada ma
 
 ---
 
-🌬️ **Sobre o projeto**
+
+### 🌬️ **Sobre o projeto**
 
 A API de gerenciamento de estoque de cervejas foi escolhida justamente por ser simples.
 Isso permite focar no que realmente importa nesse estudo:
@@ -24,7 +25,7 @@ Isso permite focar no que realmente importa nesse estudo:
 
 ---
 
-🧪 **Como os testes foram pensados**
+### 🧪 **Como os testes foram pensados**
 
 Testes unitários:
 
@@ -42,7 +43,7 @@ A ideia foi entender cada parte separadamente e depois observar tudo funcionando
 
 ---
 
-🧩 **O que a API faz**
+### 🧩 **O que a API faz**
 
 * Lista cervejas
 * Busca por ID
@@ -50,7 +51,7 @@ A ideia foi entender cada parte separadamente e depois observar tudo funcionando
 * Atualiza o estoque
 * Remove registros
 
-🛠️ **Tecnologias usadas**
+### 🛠️ **Tecnologias usadas**
 
 * Java 17
 * Spring Boot
@@ -63,7 +64,7 @@ A ideia foi entender cada parte separadamente e depois observar tudo funcionando
 
 ---
 
-▶️ **Como rodar**
+### ▶️ **Como rodar**
 
 Subir a aplicação:
 
@@ -81,10 +82,10 @@ Tudo roda em memória, sem necessidade de configuração externa.
 
 ---
 
-🌀 **Um pouco do contexto Breezelab**
+### 🌀 **Um pouco do contexto Breezelab**
 
 O **Breezelab** é um espaço onde tecnologia, design e comunicação se encontram.
 Este projeto entra como um estudo técnico dentro desse ecossistema, reforçando a importância de **entender bem os fluxos**, validar comportamentos e cuidar da base antes de pensar em algo maior.
 
-É um projeto simples, mas honesto — feito para aprender, testar e documentar o caminho.
+É um **projeto simples, mas honesto** — feito para **aprender, testar e documentar** o caminho.
 
